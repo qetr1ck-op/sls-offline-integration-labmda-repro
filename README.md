@@ -1,6 +1,6 @@
 Based on the [discussion](https://github.com/dherault/serverless-offline/issues/517)
 
-1. Totally vanila project created by `sls create --template template aws-nodejs` which is based on webpack+tsc precompilation phase
+1. Totally vanila project created by `sls create --template aws-nodejs-typescript` which is based on webpack+tsc precompilation phase
 2. Added `serverless-offline` plugin
 
 Steps to introduce:
